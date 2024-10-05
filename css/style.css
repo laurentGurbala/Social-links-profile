@@ -52,6 +52,10 @@ a {
     color: inherit;
 }
 
+ul {
+    list-style-type: none;
+}
+
 /* Card */
 .card-profile {
     width: 100%;
@@ -87,6 +91,10 @@ a {
     text-align: center;
     font-weight: 300;
     margin-bottom: 2.4rem;
+}
+
+.card-profile__list-btn {
+    width: 100%;
 }
 
 /* btn */
